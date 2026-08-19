@@ -1,0 +1,14 @@
+{
+  "name": "task-crud-api",
+  "version": "1.0.0",
+  "description": "A small in-memory Task CRUD API built with Express, with Swagger UI docs.",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
